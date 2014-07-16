@@ -1,0 +1,22 @@
+Created by Jasdy Syarman a.k.a aku_tak_tau
+
+http://syarman.com
+
+
+
+Feel free to use this code but please leave this credit to me.
+
+
+
+rev 1.2.1
+add option for prepend
+
+rev 1.2.0
+
+remove the use of .change while calling this function
+
+
+
+rev 1.1.0
+
+add loading to select while populating JSON
